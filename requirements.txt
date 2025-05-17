@@ -1,2 +1,5 @@
 pandas
 prophet
+streamlit
+numpy
+plotly
