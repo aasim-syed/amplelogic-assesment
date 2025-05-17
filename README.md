@@ -4,6 +4,8 @@
 This is a Streamlit app that helps you forecast demand and calculate key inventory metrics like safety stock and reorder point using the Prophet forecasting model.
 
 ---
+## Watch Demo
+[▶️ Watch Demo Video](InventoryForecast-Brave2025-05-1719-51-49-ezgif.com-video-to-gif-converter.gif)
 
 ## 🚀 Features
 
