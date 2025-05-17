@@ -1,4 +1,4 @@
-# amplelogic-assesment
+# AmpleLogic-assesment
 # 📦 Inventory Demand Forecast & Reorder Point Dashboard
 
 This is a Streamlit app that helps you forecast demand and calculate key inventory metrics like safety stock and reorder point using the Prophet forecasting model.
