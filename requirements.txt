@@ -3,3 +3,5 @@ prophet
 streamlit
 numpy
 plotly
+xgboost
+scikit-learn
